@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNN TÃ¼rk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN TÃ¼rk
+#EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:1700,NTV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -15,7 +15,7 @@ http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:2700,TV 8 (1080p) [Not 24/7]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:2700,HabertÃ¼rk TV (1080p)
+#EXTINF:2700,Habertürk TV (1080p)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:60,TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -81,15 +81,15 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:0,Power Plus (1080p)
 https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:31,Power TÃ¼rk Akustik (1080p)
+#EXTINF:31,Power Türk Akustik (1080p)
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:28,Power TÃ¼rk Slow (1080p)
+#EXTINF:28,Power Türk Slow (1080p)
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:26,Power TÃ¼rk Taptaze (1080p)
+#EXTINF:26,Power Türk Taptaze (1080p)
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:0,Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:30,SatranÃ§ TV (480p) [Not 24/7]
+#EXTINF:30,Satranç TV (480p) [Not 24/7]
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:3360,Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -115,11 +115,11 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:86400,TRT Belgesel (720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT Ã‡ocuk (720p)
+#EXTINF:60,TRT Çocuk (720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT KurdÃ® (720p)
+#EXTINF:60,TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT MÃ¼zik (720p)
+#EXTINF:60,TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:86400,TRT Spor (1080p) [Geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
